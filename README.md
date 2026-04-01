@@ -7,7 +7,7 @@
   
   **Pioneering Energy & Geo-Data Solutions**
   
-  [Website](https://envirosgroup.com/) • [Contact Us](https://envirosgroup.com/contact-us)
+  [Website](https://envirosgroup.com/) • [Contact Us](https://envirosgroup.com/contact/)
 </div>
 
 ---
