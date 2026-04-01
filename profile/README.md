@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Enviros Group Banner" />
+  <img src="https://raw.githubusercontent.com/enviros-group/.github/main/profile/banner.svg" alt="Enviros Group Banner" />
   
   <br/>
   
